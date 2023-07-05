@@ -29,7 +29,6 @@ To run the My Own RESTful API locally, follow these steps:
 git clone https://github.com/MianUsamaIjaz/My-Own-RESTful-API.git
 
 2. Set up the database:
-
 Install and configure your preferred database system (such as MongoDB or MySQL).
 Update the connection details in the application (e.g., app.js or a separate configuration file).
 
